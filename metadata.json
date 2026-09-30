@@ -1,0 +1,6 @@
+{
+  "name": "Swipefile - Offline Ad & Creative Library",
+  "description": "Minimalist desktop application for saving and organizing digital marketing ads, landing pages, and lead generation creatives offline with local SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
